@@ -1,0 +1,2 @@
+# High_level_Content-base_Image_Retrieval
+Project of a system to be possible to perform a high level Content-base image retrieval. The project is divided in two parts. The first part is to index a set of images. The second part consists in search in this set by providing an image and the system will retrieve the most similar images. Besides this, it is possible to search by a query of text to try to find images with the text of the query.
