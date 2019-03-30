@@ -8,3 +8,7 @@ Project of a system to be possible to perform a high level Content-base image re
 - Object Character recognition
 
 It was also performed transfer learning to detect trees. The model used was darknet53.conv.74 and to train the model was used the Darknet implementation. 
+
+For more information read the report.
+In the repository are missing two files, due to the size of them: yolov3.weights and frozen_east_text_detection.pb.
+ 
