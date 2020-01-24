@@ -19,4 +19,4 @@ pysaliency==0.2.3
 requests==2.21.0
 scipy==1.2.0
 tqdm==4.29.1
-urllib3==1.24.1
+urllib3==1.24.2
