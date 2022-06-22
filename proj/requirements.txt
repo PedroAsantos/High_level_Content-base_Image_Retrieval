@@ -11,7 +11,7 @@ imageio==2.4.1
 llvmlite==0.27.0
 natsort==5.5.0
 numba==0.42.0
-numpy==1.16.0
+numpy==1.22.0
 opencv-contrib-python==4.0.0.21
 opencv-python==4.0.0.21
 Pillow==5.4.1
